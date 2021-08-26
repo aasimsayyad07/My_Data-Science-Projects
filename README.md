@@ -1,4 +1,4 @@
-# Data-Science-Projcets
+# Data-Science-Projects
 Name: Aasim sayad
 
 
