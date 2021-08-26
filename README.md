@@ -1,5 +1,11 @@
 # Data-Science-Projcets
-datasets and its solution by data analysis and cleaning
+Name: Aasim sayad
+Collge:- Pimpri Chinchwad College Of Engineering
+Thrust Area:- Data Science, Machine learning
+
+
+
+Datasets and its solution by data analysis and cleaning
 
 
 
