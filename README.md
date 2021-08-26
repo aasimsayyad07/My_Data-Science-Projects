@@ -1,6 +1,19 @@
 # Data-Science-Projcets
 Name: Aasim sayad
+
+
+
+
+
+
 Collge:- Pimpri Chinchwad College Of Engineering
+
+
+
+
+
+
+
 Thrust Area:- Data Science, Machine learning
 
 
